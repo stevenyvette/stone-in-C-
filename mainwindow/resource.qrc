@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/pic">
+        <file>resourse/exit.png</file>
+        <file>resourse/help.png</file>
+        <file>resourse/icon.jpg</file>
+        <file>resourse/open.png</file>
+        <file>resourse/save.png</file>
+        <file>resourse/u=3849790403,3361714132&amp;fm=21&amp;gp=0.jpg</file>
+        <file>resourse/4659649_214624001018_2.jpg</file>
+        <file>resourse/bullet.jpg</file>
+        <file>resourse/弗里曼.jpg</file>
+    </qresource>
+</RCC>

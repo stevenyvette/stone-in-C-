@@ -1,0 +1,606 @@
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
+The Adjacency Matrix when vertex C is replaced by vertex A is: 
+*      
+ 0 1 1 0 1 
+ 1 0 1 1 0 
+ 1 1 0 1 0 
+ 0 1 1 0 0 
+ 1 0 0 0 0 
+
+
+
+The Property Matrix when vertex	C is replaced by vertex A is:
+
+N W R C V D
+A 9 a 5 2 3 
+B 8 g 4 2 3 
+D 7 d 4 0 3 
+E 4 f 3 2 2 
+F 5 d 2 1 1 
+
+
+
